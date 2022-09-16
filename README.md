@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayukodee persueing Bachlkor of science in Information and Technology
+- 👋 Hi, I’m @ayukodee 
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning laravel framework
 - 💞️ I’m looking to collaborate on website development
